@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    opacity: 1;
+}
+
+#Tiitle{
+    color: white;
+    text-decoration-color: wheat;
+    text-decoration: underline;
+}
+#Tiitle:hover{
+    color: whitesmoke;
+}
+
+#Disclaimer{
+    margin-top: 490px;
+    opacity: .04;
+    color: darkgray;
+}
+#Disclaimer:hover{
+    opacity: 1;
+}
